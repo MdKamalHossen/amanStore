@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bb9fe2a.css",
+    "main.js": "/static/js/main.5d4643eb.js",
+    "static/media/garment.jpg": "/static/media/garment.369b0a0365e565c6e2fb.jpg",
+    "static/media/babyshop.png": "/static/media/babyshop.f5389730bd207630605a.png",
+    "static/media/target.png": "/static/media/target.e6bd686108def847f4d2.png",
+    "static/media/Big-W.jpg": "/static/media/Big-W.5e64e603a79b6a93651a.jpg",
+    "static/media/John_Lewis.png": "/static/media/John_Lewis.48e05c2d2ebd39c12e2c.png",
+    "static/media/woolworth.jpg": "/static/media/woolworth.fd86f649d69c55d71091.jpg",
+    "index.html": "/index.html",
+    "main.8bb9fe2a.css.map": "/static/css/main.8bb9fe2a.css.map",
+    "main.5d4643eb.js.map": "/static/js/main.5d4643eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb9fe2a.css",
+    "static/js/main.5d4643eb.js"
+  ]
+}
